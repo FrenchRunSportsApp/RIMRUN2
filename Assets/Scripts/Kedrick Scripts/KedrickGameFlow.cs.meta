@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d965ca3855767c54aad2caf3f91124cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverPanel: {instanceID: 0}
+  - tile1Obj: {instanceID: 0}
+  - building1: {instanceID: 0}
+  - building2: {instanceID: 0}
+  - building3: {instanceID: 0}
+  - building4: {instanceID: 0}
+  - building5: {instanceID: 0}
+  - building6: {instanceID: 0}
+  - building7: {instanceID: 0}
+  - zonePowerupObj: {instanceID: 0}
+  - hydrantObj: {instanceID: 0}
+  - fruitCartObj: {instanceID: 0}
+  - leftBuildingObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
